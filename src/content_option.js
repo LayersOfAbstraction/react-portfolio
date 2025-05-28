@@ -146,11 +146,10 @@ const contactConfig = {
     YOUR_USER_ID: "user_id",
 };
 
-const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+const socialprofiles = {
+    github: "https://github.com/LayersOfAbstraction",
+    linkedin: "https://www.linkedin.com/in/jordan-nash-87b042173/",
+    medium: "https://medium.com/@jnash486"
 };
 export {
     meta,
@@ -161,6 +160,6 @@ export {
     services,
     introdata,
     contactConfig,
-    socialprofils,
+    socialprofiles,
     logotext,
 };
