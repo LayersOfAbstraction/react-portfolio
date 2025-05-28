@@ -1,6 +1,6 @@
-const logotext = "JOHN";
+const logotext = "Console Commando";
 const meta = {
-    title: "John Doe",
+    title: "Jordan Nash",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
