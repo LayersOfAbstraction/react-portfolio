@@ -1,15 +1,15 @@
 const logotext = "Console Commando";
 const meta = {
     title: "Jordan Nash",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "Looking for work in Brisbane",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Jordan",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love skating",
+        second: "Coding cool websites",
+        third: "Reading",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -136,8 +136,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "v9o74vse9@mozmail.com",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
