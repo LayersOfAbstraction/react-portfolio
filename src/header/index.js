@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./style.css";
+import "layers-shared-styles/header/style.css";
 import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
 import { logotext ,socialprofiles } from "../content_option";

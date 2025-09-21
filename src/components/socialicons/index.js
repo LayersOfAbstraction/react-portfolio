@@ -1,5 +1,6 @@
 import React from "react";
-import "./style.css";
+// global shared styles (from installed shared-styles package)
+import "layers-shared-styles/components/socialicons/style.css";
 import {
   FaGithub,
   FaLinkedin,
